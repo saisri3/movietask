@@ -1,0 +1,85 @@
+[
+    {
+        "title":"StarWars:EpisodeVill",
+        "year":2017,
+        "rating":"PG-13",
+        "duration":"2h30m",
+        "image":"starwars.jpeg",
+        "description":"Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue ...",
+        "url":"https://www.imdb.com/title/tt0076759/",
+        "boxoffice":3516272183791
+    },
+    
+    
+    {
+        "title":"Hardcore",
+        "year":2016,
+        "rating":"R",
+        "duration":"1h36m",
+        "image":"hardcore.jpg",
+        "description":"A conservative Midwest businessman ventures into the underworld of pornography in California to look for his runaway teenage daughter who is making porno films ...",
+        "url":"https://www.imdb.com/title/tt0079271/",
+        "boxoffice":3516272183791
+    },
+    {
+        "title":"The Crown",
+        "year":2017,
+        "rating":"PG-13",
+        "duration":"2h22m",
+        "image":"thecrown.jpeg",
+        "description":"Gillian Anderson, Emma Corrin, and Olivia Colman in The Crown (2016). Bend. Or Break. ...",
+        "url":"https://www.imdb.com/title/tt4786824/",
+        "boxoffice":3516273791
+    },
+    {
+        "title":"Set It Up",
+        "year":2018,
+        "rating":"TV-14",
+        "duration":"1h45m",
+        "image":"setitup.jpeg",
+        "description":"Two young assistants in New York City realize they can make their lives easier by setting up their workaholic bosses to date. While trying to perpetuate ...",
+        "url":"https://www.imdb.com/title/tt5304992/",
+        "boxoffice":3516272191
+    },
+    {
+        "title":"How I met",
+        "year":2017,
+        "rating":"PG-13",
+        "duration":"2h21m",
+        "image":"starwars.jpeg",
+        "description":"",
+        "url":"",
+        "boxoffice":272183791
+    },
+
+    {
+        "title":"Titanic",
+        "year":2017,
+        "rating":"PG-13",
+        "duration":"2h33m",
+        "image":"starwars.jpeg",
+        "description":"",
+        "url":"",
+        "boxoffice":16272183791
+    },
+    {
+        "title":"The Sinner",
+        "year":2017,
+        "rating":"TV-M",
+        "duration":"1h44m",
+        "image":"thesinner.jpg",
+        "description":"The Sinner: Directed by Charles Wiedman. ... I read on the official movie site that it is currently being shopped as a series. Boy, I'd love to see that.",
+        "url":"https://www.imdb.com/title/tt1800757/",
+        "boxoffice":183791
+    },
+    {
+        "title":"Avengers",
+        "year":2017,
+        "rating":"PG-13",
+        "duration":"2h39m",
+        "image":"starwars.jpeg",
+        "description":"The Sinner: Directed by Charles Wiedman. ... I read on the official movie site that it is currently being shopped as a series. Boy, I'd love to see that.",
+        "url":"https://www.imdb.com/title/tt1800757/",
+        "boxoffice":83791
+    }
+]
