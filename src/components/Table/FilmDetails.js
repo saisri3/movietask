@@ -10,7 +10,7 @@ export default function FilmDetails(props) {
       {/* // <ContentModal> */}
 
       <img
-        className="images"
+        className="image"
         src={process.env.PUBLIC_URL + "/images/" + props.film.image}
         height="100"
         width="180"

@@ -5,26 +5,24 @@ import { AiOutlineArrowUp } from "react-icons/ai";
 
 const TableTitle = (props) => {
   return (
-    <div>
-      <container className="header">
-        <p className="image_header">IMAGE</p>
-        <p className="title_">TITLE</p>
-        <p className="title_">YEAR</p>
-        <p className="title_">RATING</p>
-        <div>
-          <p className="durat" onClick={() => props.SortBasedDuration()}>
-            DURATION
-          </p>
-          <div className="arrows">
-            {props.order === "ascending" ? (
-              <AiOutlineArrowDown size="2x" />
-            ) : (
-              <AiOutlineArrowUp />
-            )}
-          </div>
+    <div className="header">
+      <p className="image_header">IMAGE</p>
+      <p className="title_">TITLE</p>
+      <p className="title_">YEAR</p>
+      <p className="title_">RATING</p>
+      <div>
+        <button className="durat" onClick={() => props.SortBasedDuration()}>
+          DURATION
+        </button>
+        <div className="arrows">
+          {props.order === "ascending" ? (
+            <AiOutlineArrowDown size="2x" />
+          ) : (
+            <AiOutlineArrowUp />
+          )}
         </div>
-        {/* <p className="ACTIONS">ACTIONS</p> */}
-      </container>
+      </div>
+      {/* <p className="ACTIONS">ACTIONS</p> */}
     </div>
   );
 };

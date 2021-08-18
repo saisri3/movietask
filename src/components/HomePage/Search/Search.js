@@ -14,14 +14,13 @@ export default function Search(props) {
   return (
     <div className="search">
       <form>
-        <label htmlFor="header-search">
+        {/* <label htmlFor="header-search">
           <span className="visually-hidden">Search For LatestMovies</span>
-        </label>
+        </label> */}
         <input
           type="text"
           id="header-search"
-          placeholder="Enter movie Name..."
-          //  value ={searchterm}
+          placeholder="Search For LatestMovies..."
           onChange={(e) => props.SearchFunction(e.target.value)}
         />
       </form>

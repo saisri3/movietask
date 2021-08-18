@@ -50,6 +50,7 @@ body {
   border: 1px solid white;
   height: 25px;
   width: 50px;
+  text-transform: uppercase;
 }
 path {
   color: gray;

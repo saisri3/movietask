@@ -1,7 +1,7 @@
 .label {
   color: black;
 }
-.iamge {
+.image {
   padding-left: 0px;
 }
 .addnewform {
@@ -13,3 +13,4 @@ input[type="button"] {
   top: 80px;
   margin-bottom: 6rem;
 }
+

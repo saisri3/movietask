@@ -20,3 +20,12 @@
     font-size: 5vw;
   }
 }
+container.header {
+  position: relative;
+  top: 10vh;
+}
+
+button.durat {
+  padding-top: 0px;
+  margin-top: 4vh;
+}
